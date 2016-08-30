@@ -561,7 +561,7 @@ z-index: 1;
 	background: #fff !important;
 }
 .nav-tabs li:hover a, .nav-tabs li a:hover, .nav-tabs li.active a:hover {
-	color: #05a;
+	color: #3b8dbd;
 }
 
 .widget-tabs .tab-content {
