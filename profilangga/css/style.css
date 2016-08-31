@@ -1671,9 +1671,9 @@ a.overlay-video {
 .widget .widget-list ul li {
 	line-height: 1.5;
 	/*border-bottom: 1px solid #EFEFEF;*/
-	padding-left: 24px;
+	padding-left: 5x;
 	padding-bottom: 5px;
-	background: url(../img/bg-widget-cat.png) 0 5px no-repeat;
+	/*background: url(../img/bg-widget-cat.png) 0 5px no-repeat;*/
 }
 
 .widget .list ul li {padding-left: 0px; margin-bottom: 5px; background-image: none;}
