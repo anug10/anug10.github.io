@@ -1,3 +1,4 @@
+/*start read more button*/
 .read-more-state {
   display: none;
 }
@@ -47,6 +48,10 @@ p {
   border-radius: .25em;
 }*/
 
+/*end read more button*/
+
+/*start link color change*/
+
 a {
   color: #a3a3a3;
   text-decoration: none;
@@ -57,4 +62,4 @@ a:hover {
   text-decoration: none;
 }
 
-
+/*end link color change*/
