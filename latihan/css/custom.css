@@ -1,0 +1,45 @@
+.carousel-content {
+    height: 100px;
+    background-color: #cba170;
+}
+.isi {
+    height: 300px;
+    background-color: beige;
+}
+.sidebar {
+    height: 200px;
+    background-color: #f7f7f7;
+}
+.header {
+    height: 100px;
+}
+.logo {
+    height: 100px;
+    background-color: rgba(115, 206, 175, 0.62)
+}
+.red {
+    background-color: #f21f93;
+    }
+.blue {
+    background-color: rgba(105, 167, 229, 0.47);
+}
+.mainmenu {
+    margin: 15px auto 0 auto;
+}
+.mainmenu-list li {
+    display: inline-block;
+}
+.mainmenu-list li a {
+    padding: 5px 10px 5px 10px;
+    background-color: antiquewhite;
+}
+.mainmenu-list li .active{
+    background-color: black;
+    color: whitesmoke;
+}
+.footer {
+    margin: 10px auto 0 auto;
+}
+.content {
+    margin: 10px auto 0 auto;
+}
