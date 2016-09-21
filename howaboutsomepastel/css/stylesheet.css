@@ -421,7 +421,7 @@
         }
       /*tambahan text 03*/  
          #text03 {
-            color: rgba(255, 255, 255, 0.569);
+            color: rgb(255, 255, 255);
             font-family: 'Source Sans Pro', helvetica, arial, sans-serif;
             font-size: 1em;
             line-height: 1.625;
@@ -782,3 +782,31 @@
             line-height: 1.625;
             font-weight: 200;
         }
+/*startfancybutton*/
+.myButton {
+	-moz-box-shadow:inset 0px 39px 0px -24px #d39595;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #d39595;
+	box-shadow:inset 0px 39px 0px -24px #d39595;
+	background-color:#d39595;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Source Sans Pro', helvetica, arial, sans-serif;
+	font-size:16px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d39595;
+}
+.myButton:hover {
+	background-color:#C7A8A8;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/*endfancybutton*/
