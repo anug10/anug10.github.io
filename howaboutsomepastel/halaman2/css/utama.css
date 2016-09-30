@@ -1,0 +1,24 @@
+body, p {
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+div#preloader {
+    background: none repeat scroll 0 0 white;
+    height: 100%;
+    left: 240px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+::selection {
+    background: #ff2238;
+    color: #ffffff;
+}
+
+
