@@ -183,8 +183,8 @@ p {
 }
 @media (max-width: 991px) {
   .site-header .main-header .logo {
-    padding-right: 20px;
-    margin-right: 10px;
+    padding-right: 0px;
+    margin-right: 0px;
   }
 }
 .scrolled-header {
