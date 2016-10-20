@@ -638,7 +638,7 @@ footer {
   background-image: url(../images/footer-bg.png);
   width: 100%;
   background-size: cover;
-  padding: 90px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
 }
 footer .footer-widget p {
   color: #d6d6d6;
@@ -1915,10 +1915,10 @@ section.gallery-four .item .thumb-holder:hover .hover-content {
   margin: 0px 5px;
   filter: alpha(opacity=50);
   opacity: 0.5;
-  background-color: #f5a425;
+  background-color: #0099CC;
 }
 .pre-featured {
-  background-color: #a12c2f;
+  background-color: #0055AA;
   margin-bottom: 30px;
   min-height: 68px;
 }
@@ -3738,7 +3738,7 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   padding: 15px 0px 20px 0px;
 }
 .teachers-heading {
-  background-image: url(http://placehold.it/1700x380) !important;
+  background-image: url(../images/staffpengajar.jpg) !important;
 }
 .events-heading {
   background-image: url(http://placehold.it/1700x380) !important;
@@ -3794,7 +3794,7 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   color: #ffffff;
 }
 .page-heading ul .active a {
-  color: #f5a425;
+  color: #ffffff;
 }
 .page-heading ul li:last-child {
   margin-right: 0px;
@@ -4384,7 +4384,7 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
   margin-left: 5px;
 }
 .text-button a:hover {
-  color: #f5a425;
+  color: #0055AA;
   transition: all 0.5s;
 }
 .border-button a {
@@ -4408,7 +4408,7 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
   height: 40px!important;
   line-height: 40px!important;
   font-size: 18px;
-  background-color: #f5a425 !important;
+  background-color: #0055AA !important;
 }
 .pagination-navigation {
   margin-top: 60px;
@@ -4442,7 +4442,7 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
 }
 .pagination-navigation .pagination ul .active a {
   color: #222222;
-  background-color: #f5a425;
+  background-color: #2c5ad6;
 }
 .pagination-navigation .navigation {
   float: right;
