@@ -4437,7 +4437,7 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
 }
 .pagination-navigation .pagination ul li a:hover {
   color: #222222;
-  background-color: #f5a425;
+  background-color: #0055AA;
   transition: all 0.5s;
 }
 .pagination-navigation .pagination ul .active a {
@@ -4466,8 +4466,8 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
   background-color: #f2f5f6;
 }
 .pagination-navigation .navigation ul li i:hover {
-  color: #222222;
-  background-color: #f5a425;
+  color: #ffffff;
+  background-color: #0055AA;
   transition: all 0.5s;
   cursor: pointer;
 }
