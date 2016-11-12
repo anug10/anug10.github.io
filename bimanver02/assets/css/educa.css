@@ -3738,7 +3738,7 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   padding: 15px 0px 20px 0px;
 }
 .teachers-heading {
-  background-image: url(../images/staffpengajar.jpg) !important;
+  background-image: url(../images/backdrop.jpg) !important;
 }
 .events-heading {
   background-image: url(http://placehold.it/1700x380) !important;
@@ -3750,10 +3750,10 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   background-image: url(http://placehold.it/1700x380) !important;
 }
 .news-heading {
-  background-image: url(http://placehold.it/1700x380) !important;
+  background-image: url(../images/backdrop.jpg) !important;
 }
 .page-heading {
-  background-image: url(http://placehold.it/1700x380);
+  background-image: url(../images/backdrop.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
