@@ -682,7 +682,7 @@ footer .footer-widget .featured-links ul li a {
   font-size: 14px;
 }
 footer .footer-widget .featured-links ul li a:hover {
-  color: #f5a425;
+  color: #0055AA;
   transition: all 0.3s;
 }
 footer .footer-widget .featured-links ul li:before {
@@ -846,7 +846,7 @@ section.our-skills .fun-facts .fact-item .fact-holder .hover-content i {
   background-color: #a12c2f;
   display: inline-block;
   position: absolute;
-  color: #f5a425;
+  color: #0055AA;
   font-size: 22px;
   padding: 15px 0px 20px 0px;
 }
@@ -1603,7 +1603,7 @@ section.gallery-four .item .thumb-holder .hover-content i {
   top: 45%;
   position: absolute;
   left: 46%;
-  background-color: #f5a425;
+  background-color: #0055AA;
   width: 28px;
   height: 28px;
   text-align: center;
@@ -3836,7 +3836,7 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
 }
 #boxed-slider {
   background-color: #ffffff;
-  padding: 50px 0px;
+  padding: 10px 0px 20px 0px;
 }
 .slider-2 .first-line {
   padding-left: 30px;
@@ -4354,7 +4354,7 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
   margin-left: 70px;
 }
 .slider-button a {
-  background-color: #222222;
+  background-color: #0055AA;
   padding: 12px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
