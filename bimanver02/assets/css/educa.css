@@ -1221,7 +1221,7 @@ section.our-skills .fourth-item .fill-bar {
 }
 .grid-news .grid-item .down-content {
   border: 2px solid #eeeeee;
-  padding: 0px 20px;
+  padding: 0px 5px;
 }
 .grid-news .grid-item .down-content ul {
   padding-top: 10px;
@@ -2833,10 +2833,11 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   margin-top: 20px;
   margin-left: 20px;
   margin-right: 15px;
+  margin-bottom: 18px;
   float: left;
   width: 46px;
   height: 46px;
-  background-color: #a12c2f;
+  background-color: #0055AA;
   text-align: center;
   display: inline-block;
   line-height: 46px;
@@ -3741,7 +3742,7 @@ section.single-teacher .single-teacher-item .description ul li:last-child {
   background-image: url(../images/backdrop.jpg) !important;
 }
 .events-heading {
-  background-image: url(http://placehold.it/1700x380) !important;
+  background-image: url(../images/backdrop.jpg) !important;
 }
 .about-heading {
   background-image: url(http://placehold.it/1700x380) !important;
@@ -4851,6 +4852,47 @@ html[xmlns] .flexslider .slides {
 .no-js .flexslider .slides > li:first-child {
   display: block;
 }
+
+/*readmore button*/
+
+.read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Show more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Show less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
+}
+
+/*end read more*/
+
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
