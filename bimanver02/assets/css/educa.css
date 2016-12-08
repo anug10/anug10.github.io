@@ -4365,12 +4365,12 @@ section.testimonials-page #owl-testimonials .owl-buttons .owl-prev:hover:after {
   display: inline-block;
 }
 .accent-button a {
-  background-color: #f5a425;
+  background-color: #0055AA;
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-size: 11px;
   text-transform: uppercase;
-  color: #222222;
+  color: #ffffff;
   letter-spacing: 2px;
   display: inline-block;
 }
